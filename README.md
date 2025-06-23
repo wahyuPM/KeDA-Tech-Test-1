@@ -10,7 +10,7 @@ This project contains utility functions for sorting arrays, finding maximum suba
 
 1. Clone the repository to your local machine:
    ```
-   git clone <repository-url>
+   git clone https://github.com/wahyuPM/KeDA-Tech-Test-1.git
    ```
 
 ## Navigate to the project directory:
