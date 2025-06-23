@@ -9,24 +9,25 @@ This project contains utility functions for sorting arrays, finding maximum suba
 ## Installation
 
 1. Clone the repository to your local machine:
-   ```
-   git clone https://github.com/wahyuPM/KeDA-Tech-Test-1.git
-   ```
+
+```
+git clone https://github.com/wahyuPM/KeDA-Tech-Test-1.git
+```
 
 ## Navigate to the project directory:
 
-    ```
-    cd <project-directory>
-    ```
+```
+cd <project-directory>
+```
 
 ## Install the necessary dependencies:
 
-    ```
-    npm install
-    ```
+```
+npm install
+```
 
 ## Run the tests using the following command:
 
-    ```
-    npm test
-    ```
+```
+npm test
+```
